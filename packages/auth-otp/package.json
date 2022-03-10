@@ -1,6 +1,6 @@
 {
   "name": "@mirabo-pkg/auth-otp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is authentication by otp module",
   "author": "longnt <longnt@mirabo.com.vn>",
   "homepage": "",
