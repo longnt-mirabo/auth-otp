@@ -1,0 +1,25 @@
+{
+  "name": "@mirabo-pkg/auth-otp",
+  "version": "0.0.1",
+  "description": "This is authentication by otp module",
+  "author": "longnt <longnt@mirabo.com.vn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "gitHead": "f8a5a6c664f3eca0115dd383d2f6d0ab31bf90c7"
+}
